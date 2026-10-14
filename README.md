@@ -8,12 +8,12 @@
 
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=Skullsneeze&theme=radical&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=Skullsneeze&theme=radical&layout=donut&hide_border=false&hide_progress=false&langs_count=6&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=Skullsneeze&theme=radical&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" /><img src="https://github-profile-maker.vercel.app/api/streak?username=Skullsneeze&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/streak?username=Skullsneeze&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=Skullsneeze&theme=radical&layout=donut&hide_border=false&hide_progress=false&langs_count=6&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
 </div>
 
 <div align="center">
